@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest_for_6_4rec.cpp
+C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 6_4rec\Laboratorna 6_4rec\Lab 6_4.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 6_4rec\Laboratorna 6_4rec\Lab 6_4.cpp(77): warning C4715: 'Dobutok': not all control paths return a value
+C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 6_4rec\Laboratorna 6_4rec\Lab 6_4.cpp(97): warning C4715: 'Suma': not all control paths return a value
+     Creating library C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 6_4rec\x64\Debug\UnitTest_for_6_4rec.lib and object C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 6_4rec\x64\Debug\UnitTest_for_6_4rec.exp
+  UnitTest_for_6_4rec.vcxproj -> C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 6_4rec\x64\Debug\UnitTest_for_6_4rec.dll
